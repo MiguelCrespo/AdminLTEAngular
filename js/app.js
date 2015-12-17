@@ -2,7 +2,11 @@ angular.module('admin', [
     'ui.router'
 ]).config(function ($stateProvider, $urlRouterProvider) {
 
-    $stateProvider.state('home', {
+    $stateProvider.state('app', {
+        url: "",
+        templateUrl: "js/components/app/app.html",
+        abstract: true
+    }).state('app.home', {
         url: "/",
         templateUrl: "js/components/home/home.html"
     });
