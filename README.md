@@ -1,7 +1,8 @@
 # AdminLTE Angular
 
 
-Angular implementation of the popular admin template **AdminLTE** made by **@almsaeedstudio** [Preview theme](https://almsaeedstudio.com/preview)
+Angular implementation of the popular admin template **AdminLTE** made by **@almsaeedstudio** [Preview theme](https://almsaeedstudio.com/preview) with ***Just Javascript <3!***
+ (No need of Apache or other server to test) and live reload features.
 
 **Original theme:**
 
@@ -23,7 +24,7 @@ Removed additional plugins that this theme brought to make more easier to user c
 
 Also implemented grunt and a node server to avoid the use of apache or whatever else to serve the HTML files.
 
-*Just Javascript <3!*
+***Just Javascript <3!***
 
 
 ----------
@@ -49,7 +50,15 @@ Also implemented grunt and a node server to avoid the use of apache or whatever 
 
 If everything was ok you should have a new tab in your browser with the theme running...
 
+
+----------
+
+
+**Additional documentation:**
+
 For additional documentation go to the official page of the project...
+
+----------
 
 **Things TO DO:**
 
