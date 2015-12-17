@@ -219,7 +219,8 @@ module.exports = function (grunt) {
         // Connect is no longer blocking other tasks, so it makes more sense to open the browser after the server starts
         'open',
         // Starts monitoring the folders and keep Grunt alive
-        'regarde'
+        'regarde',
+        'watch'
     ]);
     // The default task (running "grunt" in console) is "watch"
     grunt.registerTask('default', ['watch']);
